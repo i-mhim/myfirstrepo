@@ -1,3 +1,3 @@
 def greet():
-    print("Hello from the main branch!")
+    print("Hey there! This is from the main branch!")
 greet()
